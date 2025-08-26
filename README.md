@@ -67,10 +67,12 @@ The design of thought node dimensions is based on a combination of philosophical
 ## Intensity
 - Based on concepts of neural activation and cognitive salience, capturing how strong or emotionally charged a thought is.  
 - Influences the spread of ideas through the thought network.
+- Inspired by William James(1890). His work inspired the idea that thoughts have intensity and awareness, and that they influence each other in a network-like fashion.
 
 ## Recursion
 - Derived from metacognition and self-reflective reasoning in philosophy and cognitive science.  
 - Represents nested or self-referential thought patterns.
+- Chomsky called recursion the defining feature of language.
 
 ## Contradiction (optional / simplified)
 - Inspired by cognitive dissonance theory (Festinger, 1957) and philosophical discussions on paradoxes and logical conflict.  
