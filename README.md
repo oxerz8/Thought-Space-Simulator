@@ -7,7 +7,7 @@ The Thought Space Simulator models thoughts as nodes in a network, where each th
 
 The position of a thought is calculated by using a Large Language Model (LLM) to determine the recursiveness, intensity and contradiction of a thought phrase.  
 Hence,  
-$$T = f(Awareness, Intensity, Contradiction, Recursion)$$
+$$T = f(Awareness, Intensity, Recursion)$$
 
 # Features
 
