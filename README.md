@@ -1,11 +1,11 @@
 # Thought-Space-Simulator
 Visualize and explore the dynamics of human thought as a 3D network of interconnected ideas.
 
-The Thought Space Simulator models thoughts as nodes in a network, where each thought has attributes like awareness, intensity, and conceptual focus. Thoughts can influence one another, evolve over time, and collapse into definite states as they become more “aware.”
+The Thought Space Simulator models thoughts as nodes in a network, where each thought has attributes like awareness, intensity, and recursiveness. Thoughts can influence one another, evolve over time, and collapse into definite states as they become more “aware.”
 
 <img width="820" height="562" alt="image" src="https://github.com/user-attachments/assets/ec3bb429-4812-44ef-970c-bd39b1f9dca5" />
 
-The position of a thought is calculated by using a Large Language Model (LLM) to determine the recursiveness, intensity and contradiction of a thought phrase.  
+The position of a thought is calculated by using a Large Language Model (LLM) to determine the recursiveness, intensity, and awareness of a thought phrase.  
 Hence,  
 $$T = f(Awareness, Intensity, Recursion)$$
 
