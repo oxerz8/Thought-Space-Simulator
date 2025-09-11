@@ -1,0 +1,782 @@
+Introduction
+What if consciousness does not emerge from matter but is a fundamental property of the
+Universe - one that governs how reality unfolds across dimensions?
+Consciousness being an extremely vast subject requires a lifetime of studying and figuring out
+the various fundamental factors or the basis that may be responsible for this universe.
+The ideas have been derived from personal experience of existence.
+That basically means the model of consciousness has been built from the first principles.
+Axioms are defined, new concepts are introduced and discussed, and gradually , the model
+becomes complex with many moving parts to it.
+You may find some loopholes, because this is still a work in progress.
+You may also find some interesting ideas.
+The text occasionally references concepts from undergraduate-level mathematics. While
+familiarity with these ideas might enhance the understanding, it is not essential. Readers may
+freely skip the mathematical sections without losing the overall message or flow of the essay .
+So! Let's begin by defining Consciousness.
+What is Consciousness?
+Axioms:Consciousness is the origin of existence, life, the animate and the inanimate beings.
+It is the inherent property of all that is being.
+1. Consciousness exists1.
+2. Everything else is derived from and within consciousness2. This implies that
+consciousness is a fundamental aspect of all that exists, a stance resonant with
+panpsychism.
+3. Consciousness is continuous except for the points at which singularities exist.  We
+consider it to be a Psychophysically Neutral Space, as described in Neutral Monism. It is a
+topological space with the metric as the degree of Awareness. So, for Thought Space,
+similar thoughts would be closer and in the Physical Space, as well as the thought space,
+higher complexity structures would form over time.
+4. Awareness increases non-monotonically with time , organizing thoughts and
+experiences along structured paths. Awareness increases over time much like entropy ,
+though not necessarily toward disorder . It's an impersonal, universal field, and increasing
+awareness drives the evolution of coherent thought structures. For more information, see
+the section on Awareness for the definition.
+A continuous consciousness is defined as follows:
+∀ϵ>0,∃δ>0:∀x1,x2,|x1−x2|<δ⟹ |f(x1)−f(x2)|<ϵ25
+We will assume that ϵ takes a minimum value at planck scale. W e will be considering what
+happens at the planck scale and the possibility of quantum ef fects.
+Using Axiom 2, we observe that the divisions we perceive: between self and other , mind and
+matter , subject and object, are not real. They are mental constructs. Emergent, not essential.
+This brings us to an interesting topic that is deeply rooted in many ancient traditions: Non-
+dualism.
+1.Non-Dualism
+“We have therefore wanted to say that all our intuition is nothing but the representation of
+appearance; that the things that we intuit are not in themselves what we intuit them to be, ...and
+that if we remove our own subject or even only the subjective constitution of the senses in
+general, then all constitution, all relations of objects in space and time, indeed space and time
+themselves would disappear , and as appearances they cannot exist in themselves, but only in
+us. What may be the case with objects in themselves and abstracted from all this receptivity of
+our sensibility remains entirely unknown to us. W e are acquainted with nothing except our way
+of perceiving them, which is peculiar to us..."3 -Kant.
+The concept of non duality has been discussed by a wide range of philosophies and religions in
+human history . From Advaita V edanta and Bhagavad Gita4 in Hinduism to Meister Eckhart’ s
+writings in Christian mysticism5. From Zen and Taoist philosophies in the East to the ideas of
+Friedrich Nietzsche6 in the W est.
+Non dualism has been the basis for realization of the unspeakable truth of existence and life,
+god and morality , the infinite and mortality .
+It is however interesting to note that the explanations and interpretations of non dualism have
+been scarcely formalized.
+First, we discuss the concept of an Integrated Set and a Reference Frame and how on the
+application of latter upon the former brings us to the familiar world in which we live. From there,
+we will head back to our starting point using what we know as non-dualism.
+Data as the fundamental unit
+Definition 1: Datum (singular for data) is a unit point in a given void or empty space.
+If two or more data points is considered, they are assumed to be identical and
+indistinguishable in their raw and individual form.
+It may form a simple connection with its surrounding points to form more complex structures.
+We assume data to be the fundamental unit for both physical and semi-physical spaces(Which
+will be defined later). This aligns with the idea proposed by the physicist John Archibald
+Wheeler in his concept of "It from Bit" which states that every physical entity ultimately
+arises from binary yes/no informational distinctions31.
+The precise nature of data (whether physical or semi-physical) is beyond the scope of this text.
+For purposes of this model, we assume it as a given.
+Integrated set
+A set is a collection of objects26.
+Definition 2:
+An Integrated set is one which is one whole or one that has no part to it,
+provided no Reference frame is attached to it.
+An integrated set is analogous to the term individual, that is something that cannot be
+divided into parts.
+Example.
+Consider a human being. While on a smaller scale of reference, it can be
+differentiated into body parts such as bones and organs, at a macroscopic scale of
+reference, it can be viewed as a single undivided entity .
+On the other hand, individuals can be viewed as part of a bigger collective or society if viewed
+through a wider frame of reference(defined below).
+Frame of reference
+Definition 3: A reference frame or a frame of reference is a mental construct7, that is, a
+concept applied on an Integrated Set and used to distinguish between two volumes
+displaying dif ferent properties such as color , motion, shape, size etc.8
+Dualistic Reference Frame
+Definition 4: The most common form of Reference frame that we apply to identify objects
+and events in the real world are Dualistic Reference Frames(DRF).
+They are called so because they polarize the Integrated set or divide it into 2 parts.
+Examples:
+Mathematical description of DRFs:
+We define a dualistic reference frame r as following:
+r2
+i={(i,¬i)|i∈S,i∧¬i=ϕ}
+Where r2
+i : dualistic (or 2nd degree) reference frame for an integrated set S used to define i
+which is a collection of data points.
+and the statement defines a tuple of i along with its current complement.
+Hence, for n independent dualistic reference frames, you can generate up to 2n distinct
+partitions of the integrated set.
+The Universe as an Integrated Set
+The universe can be defined as an Integrated Set or a system in which, provided no
+reference frame is applied, one cannot distinguish any one data point from another .
+It is considered that all the boundaries between any of the separate bodies is dissolved, be it
+living from non-living, animate from the inanimate, macroscopic from the microscopic etc.
+Hence, it is observed that the Universe is a continuous, integrated body .
+This is our basis for non dualism. While under the application of a large number of reference
+frames, we observe the environment we're familiar with, the realization of the presence of
+these constructs bring us one step closer to an integrated, continuous reality .
+Consequences of Non-DualismPhysical DRFs:
+(Apple, Table): Based on color and shape of the two, we can dif ferentiate them
+(Car, Road): Based on the shape and motion of one upon the other , we can
+separate them.
+Semi-physical DRFs:
+These include abstract concepts such a (good, bad) or (interesting, boring).
+They are used to identify the quality of thoughts or concepts such as the thought
+of theft is considered bad as opposed to good
+They can also be used to label events in time such as an event to watch a movie
+can be considered interesting as opposed to boring.
+2.Thoughts
+Thought Space
+Physical space is perceivable by the physical senses. Everything that can be verified by
+Science is physical.
+Thought Space is a hypothesized space on the boundary of the physical and non-physical
+space. So it is a semi-physical space.
+In this space each point represents a single unit of thought: a type-Thought data.
+This is a space where:1. Everything exists in continuity as a spectrum.
+For example: Between 0 and 1, there are an infinite number of numbers making the shift
+from 0 to 1 continuous.
+2. Therefore we may consider that physical space may be part of a spectrum to semi-physical
+space and not strictly divided from it.
+We will make an attempt at solving the Combination problem in Panpsychism using the
+concept of non-dualism later in this essay .
+It is not in the scope of this text to answer whether semi-physical space exists or not.
+However , we will go to the limits of what we consider to be physical while exploring the
+semi-physical space.
+We will cover the following topics:
+Thought space
+Language space
+Awareness
+Combination problem in Panpsychism
+Any point is a Thought
+Any straight line is a Logical or Mathematical sequence of thoughts
+Any non-straight line (curved line) is not a form of logic, science or mathematics.
+Consider the paths from A to B.
+The dotted line is the most ef ficient, abstract, or mathematical trajectory to put a sequence
+of thoughts together . It may not exist in the form of Language due to its pure logical
+structure.
+The line closely following the dotted line may be considered the logical sequence of
+thoughts that can be converted into Language.
+All other curves from A to B contain redundant information or deviate from the core logic.
+These may include emotional, intuitive thoughts. While they may introduce redundancy or
+non-linearity , they may still contain some insight.
+These curved paths contain deviation from the core logic and the higher the deviation the
+more the thoughts become illogical, non-sensical, emotional, non-scientific, etc.
+Note: In mathematics, a manifold is a topological space that locally resembles Euclidean
+space.
+While logical sequences of thought are considered to be straight lines with a direction and
+magnitude (vectors), the shape of the entire thought structure, or the thought manifold,
+begins to show more complexity when viewed at a larger scale.
+At the zoomed-in level, purely logical structures  follow straight lines. But as we zoom out,
+these sequences can begin to curve  even though each local segment still appears linear .
+This happens when multiple logical vectors stack up(in series and/or in parallel) to represent
+something more complex and abstract.
+Note that logical sequences of thoughts can be considered as eigenvectors , that is, they retain
+their direction even when the environment around them changes (under transformations).
+This is what gives them the ability to stay stable situations without losing coherence. An eigen-
+thought is like a principle: it holds true, even as the context shifts.
+Limiting Curve of Logic
+Limiting curve of Logic defines special boundary structures in thought space, points where
+conventional logical progression breaks or loops back on itself.
+These special cases include:
+A singularity refers to a point where a physical quantity (like density or curvature) becomes
+infinite, or where the equations describing a system break down27.
+These structures behave like singularities  in the awareness vector field(more on that later) -
+regions where traditional logical flow becomes undefined, rotational, or recursive. They are
+essential in mapping the boundaries of rational thought .
+So, as per Axiom 3, we have that, given thought space T and the singularities defined by
+limiting curve of logic L3, the resultant thought space is continuous if and only if that resultant
+thought space is T-{L3}
+Thought space and Physical Space
+We have considered thought space as a part of semi-physical space, a space which is on the
+limiting edge of physical space, where laws of nature are challenged and the extreme
+possibilities emerge.
+Bohm postulated that thought is distributed and non localized like quantum entities.32
+In physics, quantum refers to the smallest discrete unit of any physical property , such as energyIn contrast, non-logical structures  (like emotional, paradoxical, or contradictory thought
+patterns) do not follow clear straight paths at any scale. They're messy , tangled, often self-
+referential, forming shapes that are dif ficult to classify . These might loop, fold back, or
+cluster into dense regions, creating local turbulence in the manifold.
+Then there are mixed structures ; logical thoughts tangled with emotional or illogical ones.
+These are the most common and the hardest to describe. They don’t align with one
+direction or one geometry . They can be smooth in places and chaotic in others, kind of like
+fractals.
+So overall, the thought manifold  is not flat. It's made of straight lines, curves, and
+singularities, depending on what kind of structure is being observed.
+Circular Thought (Eg. A⟹ B and B⟹ A)
+Paradoxical Thought (Eg. This statement is False)
+Contradictory Thought (Eg. A∩¬A)
+or angular momentum.
+Hence, as a speculation, consider thoughts to be quantum in nature. This idea also arose from
+Roger Penrose and Stuart Hamerof f's theory(Orchestrated Objective Reduction) that there is a
+possibility of existence of quantum phenomena in the brain. The phenomena has been
+hypothesized to be possible in microtubules inside the brain9. This is considered to be the origin
+of consciousness.
+This would imply that there would be the possibility of quantum entanglement and quantum
+superposition.
+Quantum superposition: Thoughts can be considered to be in a state of superposition until they
+are observed by an observer(more on this topic later). Then they collapse into a definite state(in
+Language space), similar to how it is in the wavefunction collapse theory . See image below .
+Note that the collapse can also be described using mathematical projection of the thought
+space (higher dimension) to Language space(lower dimension).
+Quantum Entanglement: Thoughts may under certain conditions, exhibit entanglement, that is,
+a form of instantaneous correlation across large distances. If such entanglement is possible in
+the thought space, it could provide a basis for understanding intuition, sudden alignment of
+thoughts between 2 individuals without any direct communication or synchronicity(more on this
+later).
+Interpretation
+How are events connected via thought space?
+Given time t=t and t= t+ δt, an Event is said to occur during that period δt.10
+Definition
+For this event E, an Interpretation is defined as a curve joining 2 points in Thought space which
+define the event from how it began to how it ended.
+It is interesting to note that the occurrence of the event can be interpreted in more than 1 way ,
+leading up to an infinite number of interpretations, that is, geometrically speaking, an infinite
+number of curves from the point A( to point B(see figure above).
+It may then be defined that while infinite number of possibilities are considerable, the curve
+must approach the displacement(shortest path from A to B) to achieve the most accurate
+interpretations.
+However , note that this may not work in regions where the Limiting Curve of Logic theory is
+applicable.
+This does not imply that only the interpretations that are the most logical (those closely
+approaching the straight line) are always the best or most accurate descriptions of an event.
+It depends on the event and the context.
+Sometimes, interpretations that are more emotional, abstract, or poetic, which may not follow
+the straight logical path at all, end up describing the event much better .
+Especially in situations where logic falls short(see Limiting curve of logic), or where the
+experience is subjective or symbolic, these “curved path” interpretations can actually carry more
+meaning.
+Definition : An Experience is an input of information, that is, structured data through one or
+more senses of an observer . We will be rigorously defining what an observer is later on. This
+information is received from the observer's environment and processed by its brain, allowing
+the environment to be observed as it is seems to be(at least what is limited through our senses
+for that matter).
+At the same time, as interpretations formed in thought space and translated into language are
+inherently dualistic, it may be that an absolute form of interpretations may not exist in the
+Thought space.
+It is also worthwhile noting that the most accurate and concise interpretations must be the ones
+that asymptotically approach displacement such as mathematics and logic and as we move
+further towards the common language, the longer and less relatively accurate the interpretation
+becomes.
+The obvious consequence of an inaccurate interpretation is that a high number of perspectives
+can be applied to consider equivalent candidates to the interpretation(interpretations of
+interpretations), often causing mass confusion and resulting in the loss of meaning.
+Having discussed quite a bit on interpretations, we now look at the actual space where these
+interpretations reside: the Language Space.
+Language Space
+We understand that Thoughts are converted into Language before they are spoken. W e
+sometimes also use language to process our thoughts.
+Hence there must be a translation function for the energy that is in the form of Thoughts to a
+form which is more comprehensible and communicable, which is, Language.
+Thought space contains abstract energies which can then be converted into language using the
+translation mapping.
+This translation mapping may be a part of how the brain functions or operates.
+Thought space is generalized and abstracted as compared to language.
+For example. The words "boy"(English), "garçon"(French) and " लड़का " (Hindi) can be reverse
+mapped from language to thought space to the section that represents a young, male, human
+being, that is, they point to the same set of energies representing what in English is the concept
+of a boy .
+This implies that the translation mapping is a one-to-many relation.
+Language, being part of a dualistic universe is consequently dualistic. Making a statement
+means denying its negative.
+For example: Statement "A  is True" implicitly states that "Not-A  is False".
+This shows that language is limited. It can only express things in dualistic terms, whereas,
+structure of consciousness may operate in a more non-dual sense.
+“The mathematical structure of language space is still under development and requires further
+clarification, especially in terms of its mapping from thought space.
+Next, we will discuss our longest topic where everything gets tied together in one final act:
+Awareness.
+3.Awareness
+Awareness exists as a distributed field over Thought space as well as Physical space.
+This suggests Awareness is fundamental.
+Awareness is unevenly distributed across the Universe.
+Local concentration centers of Awareness are called Observers11.
+These concentration centers interact with both the Thought space and the Physical space, one
+may even consider them to be a bridge between the two(For example. The phrase 'Y our
+thoughts create your reality')12.
+Observers might emerge where physical and informational complexity reaches a threshold
+(Example. A brain).
+This aligns with how stars or blackholes form: Gravitational collapse of matter into dense cores
+or collapse of Awareness into structured complexity . Which is why , we're going to try and see
+what happens if we model Awareness as a vector field, similar to how gravity works.
+Awareness modelled as a Vector Field
+In physics, a field is a physical quantity that has a value for every point in space and time13.
+A vector field is a function that assigns a vector to each point in a space14.
+A vector is a quantity that has both magnitude(size or length) and direction.
+The red circle is a collapsed thought as the observer is nearby and the awareness field is
+directed towards the red thought. This image has been created using python.
+Let A(x) be the field.
+This implies that at every point on the field, it has a magnitude and direction13.
+Vectors within the field can be added, subtracted and multiplied by a scalar .
+A(x) may be rotational or irrotational.
+If A(x) is rotational, A0
+Q. When is A(x) rotational?
+Ans: Near Singularities. This models phenomena like obsessive thought loops, circular logic,
+paradox etc.
+For a sink in the field: A<0
+For a source in the field: A>0
+For the field underlying logical, scientific, mathematical spaces: A=0
+An observer is a True sink/source of the Awareness field(both in Physical as well as thought
+space).
+A hallucination is a False sink/source of the Awareness field(only in thought space).
+Observers with access only to physical space are semi-sink/semi-source(Eg. Bugs)
+Synchronicity
+There are two types of Events that are possible. Causal and Acausal. Scientific laws suf fice in
+explaining the causal events. However , we also have acausal events.
+Now, what is Acausality? W ell, we know that if causality is Cause implies Ef fect and Negation of
+causality is acausality , then Acausality , by conceptual inversion, is the occurrence of an ef fect in
+the absence of a cause. But how can something happen if nothing caused it to happen?
+Well, there is a way this is possible:
+Now, there’ s a special category of Acausal events that may satisfy the above property , that is,
+there may be faster than the speed of light information exchange.
+These types of events are called synchronistic events.This will look like parallel lines.
+Parallel lines indicate the same line of logic as it's a vector field so as long as magnitude
+and direction are the same, vector traversal is possible, that is, same logic can be applied
+to different events across space and time .
+Beyond Physical Constraints : In physics, by the general theory of relativity , we know that
+nothing or no information can travel faster than the speed of light at a physical level. This
+means an event that occurs due to any semi-physical causes could, in theory , be
+instantaneous, surpassing the space-time boundaries and therefore, not be bound by
+causality and thus, acausal.
+Note: Synchronistic events may not be acausal if they're quantum in nature. At this point, it is
+worth noting that Harald Atmanspacher , a prominent theorist of dual-aspect monism, has
+argued that quantum entanglement might underlie phenomena similar to Jung’ s synchronicity—
+meaningful correlations not explained by direct causal interaction29. As discussed earlier , if
+thoughts are quantum in nature, then due to the phenomenon of Quantum Entanglement, there
+may exist a correlation between the thoughts of dif ferent observers. These entangled thoughts
+could, in theory , upon observation and collapse, generate synchronistic events. This could
+explain shared intuition or sudden alignment of thoughts between 2 individuals without any
+direct communication. Also, quantum entanglement requires prior interaction. This can be
+explained by revising the definition we used for observers. They are concentration centers of
+awareness and awareness is a field. The dif ferent observers are not fundamentally separate,
+they're localized expressions  of the same field. This means, in one form or the other , it is
+possible that their substructures interacted at some point in the past. However , for the purposes
+of this article, we will assume that synchronicity is acausal.
+History
+The term synchronicity  was coined by the Swiss psychiatrist Carl Jung, who also coined the
+terms introvert and extravert. Jung developed this concept in collaboration with the Austrian
+physicist W olfgang Pauli, one of the pioneers in Quantum Mechanics.15
+Explanation
+Now, synchronicity based events are ones which in retrospect can have some personal
+meaning which can be assigned to them.
+These can be simple enough like you having the same thought as your friend at the same time
+or life-changing ones like bumping into the right person at the right place at the right time. This
+may included observing of signs that have subjective meaning assigned to them by the
+observer .
+There’ s no apparent cause to these events and yet in retrospect, they may result in a
+meaningful conversation or something that diverges you to an entirely dif ferent path in life.
+Basis
+If we assume that an event can be either causal or acausal, and on the basis of that claim that
+these acausal events can be synchronistic, then we must arrive at the question: What is the
+basis for these synchronicity based events?
+Here, we will discuss one possibility , however , there could be many beyond our imagination.
+We know that all matter is energy(by Einstein's famous equation =mc2). Extending this idea,
+we infer that all semi-matter or the unit of matter for semi-physical plane is also energy such as
+the space of thoughts.
+Energy has a wavelength and we know that waves can only interact if they’re of similar
+wavelength.
+A perfect example of this would be that due to the large dif ference in wavelength, radio waves
+pass through walls.
+Hence, it is acceptable to assume that thoughts also only interact when they resonate at similar
+wavelengths or frequency .
+Hence, an acausal event may occur by synchronicity due to interaction of thoughts leading to
+say an encounter or a conversation between two or more observers.
+In simple language, it is said that we tend to meet people similar in thinking to ours.
+Flow of Nature
+Up till now , we have that:
+It is a concept borrowed from 2 dif ferent sources in history .
+Assuming that all units of data are indistinguishable and each has the property of Awareness,
+we may infer that the natural flow may occur in the direction of purifying every single point to
+maximize its awareness.
+This can consequently be applied to high complexity structures, such as the physical and semi-
+physical bodies(the identity) of observers, which infers that the purpose of the observer with
+respect to their surroundings is to accord oneself to the Flow of Nature and maximize
+awareness of the (observer , environment) system. This is similar to the ideas given by both of
+the aforementioned authors and display an interesting connection between the philosophy of
+the East and the W est.
+Note that awareness might fluctuate at a local level(increasing non-monotonically).
+Flow of nature creates synchronicities which are events which increase the awareness of the
+observer and their local environment.Since Awareness is distributed unevenly in space, and it tends to increase in time, we can
+consider the universe to have an Awareness Gradient(always pointing in the direction of the
+higher awareness).
+Observers move through degrees of awareness, shaped by their thoughts and experiences.
+This may not be completely random, that is, it is directed towards a sense of clarity . Hence,
+there's a direction in which one thinks or one's thoughts flow .
+This tendency for thoughts to evolve and awareness to increase implies the existence of a
+natural flow which we'll call the Flow of Nature.
+From the East, Laozi, (4th century BC), Tao Te Ching16
+From the W est, Marcus Aurelius, (170 AD), Meditations
+The mathematics of the Natural Flow are not in the scope of this essay . We take the workings of
+the flow for granted here.
+Attachmental Events
+In contrast to synchronistic events, which may be acausal and aligned with the flow of nature,
+Attachmental events are those events caused by the observers that are born out of their
+attachment to the physical world. These events are causal, though their origin in the thoughts
+may be acausal.
+For example. Craving for food vs hunger . While hunger is a physical event caused by natural
+laws, the feeling we get when our stomach is empty or we need energy from food, a craving for
+food is a false event that makes us feel like we're hungry and we eat out of leisure rather than
+out of necessity .
+These events disrupt the flow of nature. They create unnecessary physical interactions which
+disaccord the observer from the flow by making unnecessary connections at the physical level.
+These attachmental events are caused by attachments to the material world and are the cause
+of suf fering as described by Gautama Buddha from the philosophy of Buddhism.
+These attachments are rooted in desires, fears and identities.
+Dimensions
+A Dimension is a defining characteristic in a given space.17
+The set of all dimensions define every possible characteristic in the given space.
+Length, width, height are the 3 dimensions of the physical space.18
+Time is the 4th dimension in physics. W e will keep that as a reference to observe how events
+evolve and unfold at both physical and semi-physical level.
+However , when we go to the semi-physical space, we have that:
+The semi-physical space has a finite number of possible dimensions  if and only if the
+observable Universe can be defined  in the Language space.
+Regardless, to define an event in the universe, we only need a subspace of the semi-physical
+space, that is, a space with dimension less than that of the semi-physical space.
+For example: A dimension can be a health characteristic wherein health characteristics of an
+observer is a subspace.19
+Dimensions in a subspace are independent of each other .22 If one dimension depended on one
+or more dimensions, one would be able to represent that dimension in terms of other ones. This
+is called a linearly dependent subspace. In our case, for maximizing simplification, we have that
+all the dimensions are linearly independent or independent of each other .
+However , we can have that between two subspaces, one or more dimensions may be common.
+Example: Health and beauty . A common dimension/ characteristic between them is Skin clarity .
+From a health  perspective, clear skin often indicates proper nutrition, hydration, and
+hormonal balance.
+Observer
+We've discussed that Awareness is the property of matter and semi-matter (for physical and
+semi-physical space) that increases with time.
+Awareness is unevenly distributed throughout the Universe, ie, there exist concentration
+centers of awareness which are local volumes in < n-dimensional spaces(where n is the highest
+dimension in the universe, n∈) with the highest degree of Awareness.
+These concentration centers are commonly known as observers.20
+An Observer is a < n-dimensional manifestation of the Natural Flow that has a physical form as
+well as a concentrated Thought space structure (commonly known as ego or identity).
+These forms may be animated.
+These observer-forms may operate at distinct frequencies, and when resonant with aspects of
+their environment, they influence the local conditions, potentially giving rise to events.
+Events such as a conversation are an exchange of energy , (sound energy at the physical level
+and thought-based energy at the semi-physical) leading to a gaining of a new experience,
+thought energy-based memories, and an increment (if only partial) of local awareness in the
+observer .
+Concentration centers or Observers can access Physical Space as well as Thought Space.
+Thoughts are higher dimensional shapes in Awareness field, localized around observers.
+The Physical world is perceivable by the 5 senses. However , observers can also experience the
+Thought space and therefore perceive thoughts as well, either local to them (self or identity) orFrom a beauty  perspective, clear skin is widely regarded as an aesthetic ideal.
+We can have other subspaces which are a defining property for mental states as well.
+Example. Happy-Sad, Good-Bad etc.
+The semi-physical spaces are generally used to interpret the experience that we gain from
+the physical space.
+Note that each of these subspaces exist in a continuous spectrum as well(eg. how happy
+one is) instead of a dualistic view of these mental states where either one is only happy or
+only sad(black and white or binary view). While a clear line of distinction does exist between
+the two, and most observers may be able to identify it within themselves or another
+observer , these may be illusive, not to mention deceptive. Overall, one must observe that
+the so-called positives and negatives of these subspaces exist only in contrast to each other
+and not independently on their own. Hence, by observing them non-dualistically , an
+observer is able to detach themselves from the polarization of happiness-sadness and exist
+in a neutral state(something we'll discuss later).
+non-local (such as by communication).
+Observers can absorb and reflect upon Thought based energies. They can also respond to
+energy by converting (or mapping) it to physical input and responding to it.
+Here, Thought space is the domain and the range is any of the physical senses.21
+Lifetime of an Observer
+The thought or mental state of an observer during any given interval are described by an event
+occurring in relation to the observer and are observable by their reaction to the event. This is
+referred to as an observer's behavior .23
+Lifetime:  An observer has a physical lifetime during which the observer experiences events
+and reacts to them. Interactions generate Energy . Interactions of any form, be it movement,
+activity , work or interaction with another observer , (even breathing is an activity). This leads to
+an influx of observable Energy by the observer leading to generation of emotions and thoughts
+leading to further events which leads one to an Energy-Event generation cycle.
+Note: This is again a dualistic frame of reference and is generalized to the cyclical logic format
+under Limiting curve of logic.
+While a common observer may remain unaware of the process or the direction in which Energy-
+Event cycles occur . The events occur , as we've discussed before (at least the synchronistic
+one), to consequently maximize awareness of observer-environment pair .
+During this lifetime, the observer's physical and semi-physical states evolve.
+Death:  When an observer has achieved a suf ficient amount of growth with respect to their
+surroundings, and the evolution of self-environment combination (which also contains other
+observers) has crossed a threshold beyond which the growth rate has reduced to a negligible
+value, the observer "dies". This death marks the final physical event in the lifetime of the
+observer and the mental configuration transfers to another point in spacetime where a "rebirth"
+may occur .
+Observer as a Simplex
+As discussed before, for an n-dimensional universe, an Observer is a < n-dimensional structure
+of Awareness parameter .
+A simplex is a shape consisting of n+1 points in an n-dimensional space of the n dimensions (n
+being the highest dimension) + 1 more point.24
+Eg. A line with 3 points in a plane can be converted to a triangle or 2d shape, ie, a simplex in
+higher dimensions.
+The purpose of the lifetime of an observer is the conversion of an Observer into a Simplex by
+decreasing the number of points in each of the lower dimensions allowing them access to
+higher dimensions by increment of the Awareness of each of these points in the structure.
+An observer consisting of n+1 points in some m<n dimension is guided by the Natural Flow to
+acquire the property of a simplex by raising its dimension (or form) to become an n-dimensional
+simplex (over several lifetimes).
+The (n1)th point represents the direction/specialization/specification of an observer .
+Mental Inertia
+Due to an embedded form of inertia, existing at the local semi-physical level af fecting the
+awareness of an Observer , one has the tendency to create an overdependence on a subset
+defined over the Physical space and the Thought space due to localized familiarity(set of
+positive experiences from a set of previous points in time), and the otherwise infinite nature of
+reality , which may be overwhelming to one that is inexperienced with it.
+A consequence to this unfamiliarity is that the observer builds up a mental shell of thoughts that
+can be assumed to be “true” in the most cases. These are commonly known as beliefs.
+This results in a loss of dynamism, a stagnancy of connections between the observer and the
+environment and ultimately reduces the local increment of awareness under the time
+parameter .
+However , just as reference frames are defined, they can again be reduced to an undefined
+state from which an observer can acquire input from a relatively integrated environment.
+This may be correlated with loss of temporal identity , temporarily , but over time with some
+adjustment and familiarity with the process, one can identify the core of undefining a frame of
+reference.
+Consequently , one can observe the same environment but in a drastically dif ferent
+sense(dif ferent set of perspectives), as an integration results in observation of the same object
+or observation of the same memory but with a dif ferent set of perspectives applied.
+Remolding of an observer into a simplex
+The consequence of the occurrence of each synchronistic event during the lifetime of an
+observer results in the reconfiguration of an observer ’s identity which results in a shift in the
+degree of Awareness parameter of the observer .
+This occurs when a satisfactory degree of “reflection” occurs within the observer resulting in the
+observer ’s change of priorities, beliefs, views, etc.
+Reflection is the experience of events by an observer that have occurred previously in time in
+its proximity . The dif ference is, these experiences are at the thought level instead of the
+physical level. Reflection happens regularly , in one way or the other , and it happens
+automatically . It is how observers process and generate insights about its environment and
+becomes familiar with it. Reflection is also a part of how the reference frames are applied (both
+physical and thought) in the observer's view of its environment.
+These events, guided by the flow , result in what may be observed as a remolding of the
+observer .
+This remolding depends on the malleability of the observer which is inversely proportional to
+one’s Mental Inertia.
+Realization of the concept of Non-duality , or the dissolution of the self is the first and the main
+step that is consistently repeated that allows for the change of beliefs or remolding of the ego.
+Consequently , as the remolding occurs, the observer attains a degree of wholeness as it slowly
+becomes one with the universe(dissolution or destruction of ego).
+This results in a lower dependence on materialistic substances and this defines a freedom for
+the observer to access and connect with higher dimensional thoughts. The observer is able to
+gain access across dimensions (lower and higher) as it achieves higher degrees of freedom
+and consequently achieves the property of a simplex wherein there still exists a connection with
+the lower dimensions, without as much dependence on them.
+The higher dimensions being less materialistic have more to do with thoughts, emotions and
+one’s state of mind.
+This results in an inner balance, a sort of peace and tranquility wherein one is more in accord
+with the flow .
+Similarities with Jungian Theory
+The above discussed ideas are similar to Jung's theory of individuation and his ideas of
+confrontation with the unconscious.
+The observer experiences, reflects upon and reacts appropriately to each situation.
+What exactly is reflection? That needs to be defined. It is a reconnection to the energies of a
+predated event that the observer experienced. These can be day-to-day events or ones that
+happened long ago. It is also possible that the reconnection to the energies are from those that
+the observer experienced in previous lifetimes.
+Through the lifetimes, what may change is the physical and mental configurations, but the
+structure of the awareness may remain the same. This is, of course, only true assuming the
+concept of rebirth is real.
+Each of these reflections is a confrontation with the unconscious and it remolds the observer
+into a simplex-like structure or in other terms, the observer "individuates".
+Finding Awareness
+Consequently , the most well fit in beings are the ones with highest awareness, are in the
+highest degree of harmony with their environment or the nature and at the top of the chain.
+This, however , does not necessarily implicate the basis of evolution as it is traditionally
+considered to be. Being at the top of the food chain was a consequence of intelligence for
+humans, which is a consequence of Awareness. That is, intelligence is a subset of awareness.
+One may be excelling in the area of intelligence but may not so much with awareness and self-
+awareness.
+Self-awareness is simply awareness of one's self, identity , ego etc.
+Being well fit in the society implicates the temporally bound basis such as wealth and influence
+rather than timeless bases such as humility and wisdom which, again, are a consequence of
+awareness. This is because humility and wisdom have a larger and more static basis for
+awareness, whereas, the basis for wealth and influence are dynamic and smaller . That is, they
+are less likely to work as a basis for evolution with respect to the former traits.
+To assume that there exists an absolute basis for maximizing awareness results in mental
+inertia and a dualistic approach to thoughts where one chooses a side of a dual as opposed to
+its contrast. A neutral stance, guided only by the flow , leads to a relatively more refined way for
+existence, for which a dynamic basis is inherent.
+A neutral stance is, by definition, similar to an agnostic stance towards existence, however , it
+takes it one step further . Instead of holding onto absolute beliefs, it adopts a probabilistic
+attitude toward reality .
+While classical belief systems rely on fixed truths(especially in religions, where in the extreme
+cases, all decisions are classified strictly as right or wrong) , this approach stays open,
+adaptable, and grounded in uncertainty .
+Awareness as God (Probably)
+Consider the three classical omni-properties  often used to describe God in religious or
+philosophical traditions:
+Now, we consider Awareness.Omnipresence
+Omniscience
+Omnipotence
+1. Omnipresence : In an n-dimensional space, Awareness is defined as a field that occupies
+and flows through all dimensions. It exists at every point, though not uniformly . In that
+sense, Awareness is omnipresent , it is present in everything, even if not everything is
+equally aware.
+Possible solution to the Combination problem
+Given that we have taken a stance in this model similar to that of panpsychism (see Axiom 2),
+we may consider tackling the combination problem  of panpsychism within our framework.
+The combination problem asks how the consciousness of fundamental, simple entities, such as
+electrons, can combine to form the complex consciousness of higher-level entities, like humans.
+Leading philosophers have highlighted the dif ficulty in explaining how micro-consciousnesses
+merge without being lost. Our approach of fers a possible resolution:
+The Mergence of Experience
+The individual electron’ s experience does not disappear  during combination. Rather , the
+mergence of experiences gives rise to an experience of non-duality , that is, the sense of being
+oneness with the environment. During this non-dual state, the whole system experiences a
+moment of self-awareness, while the parts continue to maintain their individual experiences.
+The parts are naturally inclined toward non-dual experiences because these align with the flow
+of nature  and the local maximization of awareness . This experience of non-duality can be
+equated with the temporary destruction of identity or ego . Although it may seem strange to
+consider electrons having an ego, if they possess existence and consciousness, they carry
+some form of awareness. The awareness field  behaves analogously to gravity , but in thought
+space , where thought is the matter being attracted. The stronger the awareness field in a given
+location (that is, bigger the concentration center), the more thoughts it attracts.
+Interestingly , the more microscopic the entity , the more likely it is to experience non-duality , as
+smaller entities are less bound by localized identities and more aligned with the natural flow .2. Omniscience : Awareness is not bound by linear time. It exists in the now , but also connects
+to the past (through memory , reflection) and potential futures (through intention,
+anticipation). Since it is the medium through which experience occurs, it carries within it the
+imprint of everything that has been experienced. Therefore, it holds the possibility of
+omniscience , not as factual knowledge, but as direct experiential knowing.
+3. Omnipotence : Awareness underlies all structures, both thought-based and physical. Its
+concentration centers (observers) may exhibit something like free will, arising when local
+awareness crosses a certain threshold. Still, the larger field of Awareness moves through all
+things via the Flow of Nature , subtly influencing events and guiding change. In this way ,
+Awareness has the potential to act as it wills , and can therefore be interpreted as
+omnipotent  within its own domain.
+Taken together , these properties suggest that what has historically been called "God" may ,
+in this framework, be understood as Awareness itself , not as a personified deity , but as the
+fundamental field that experiences, shapes, and connects all things.
+Mechanism of Fusion
+The "how" of mergence can be understood as a fusion process : the individual and collective
+experiences coexist. Fusion of consciousness has been explored in various philosophical and
+mystical traditions, and our model extends this idea to fundamental entities.
+Awareness exists as a field in the psychophysical neutral domain , while ego is simply a
+collection of “I-position” thoughts(Hubert Hermans). An electron in a non-dual state experiences
+a condition analogous to higher human consciousness, but without the same level of
+complexity .
+Structural Organization
+The flow of nature  guides awareness to form increasingly complex structures. Rather than
+each mind being strictly localized, we posit a mental space  (subset of the psychophysical
+neutral space) and a mind field  (subset of the awareness field), an idea posed by John Eccles.
+At each concentration center of awareness, there exists an experiencer capable of engaging
+with mental space.
+Greater awareness at these centers enables deeper experiences , and multiple concentration
+centers can combine and fuse  to form structures with more unified, integrated experiences .
+Therefore, in totality , there is no problem of “too many minds”  as all are part of a singular
+field of consciousness.
+Emergent Properties and Laws of Fusion
+While there is no precise law of fusion yet, the process is reminiscent of human experiences of
+non-duality . A meaningful event (whether a synchronicity or other resonance) occurs when
+thoughts resonate between the experiencer and the experience . This happens when the
+thoughts are of similar frequency , as discussed earlier . This resonance amplifies the
+experience’ s intensity , generating a sense of greater energetic connection with the whole .
+Ego Inflation and Awareness Concentration
+Localized awareness fields, such as those associated with electrons, may create mild egoic
+tendencies , akin to a gravitational pull on selfhood. These are not identities in the full human
+sense, but represent primitive “I-experiences” concentrated at points of awareness.
+Testing and Empirical Challenges
+Testing this model is inherently dif ficult. However , the role of entanglement  in fusing awareness
+or synchronistic experiences could provide a testable avenue in principle. This is because a
+non-dual experience is a synchronistic event and according to Harald Atmanspacher ,
+synchronicity may be the macroscopic form of quantum entanglement.
+However , it is also interesting to note that there are accounts of non-dualistic experiences
+throughout history . From the eastern philosophies of Hinduism, Taoism and Buddhism to the
+western philosophy of Nietzsche, Schopenhauer and the Christian mystic Meister Eckhart,
+these accounts are spread throughout the world's history with dif ferent names. Some of these
+experiences may be union with god, spiritual awakening, the experience of Zen,
+Moksh(liberation), enlightenment etc.
+Open Questions
+The exact mechanisms of structural organization  and the emergence of complex, hierarchical
+consciousness remain mysterious. Nevertheless, the framework suggests that the combination
+problem may not be a paradox after all: the individual and collective experiences coexist,
+resonate, and fuse in ways that reflect both unity and multiplicity .
+Note that Annaka Harris has published a similar solution regarding the dissolution of self and
+consciousness as a field in the Journal of Consciousness Studies(2021).
+4.Conclusion
+So, we have discussed many things in this essay .
+We defined consciousness, then we moved on to Non-duality and its components, we
+discussed integrated sets and reference frames and then we concluded that the Universe is an
+Integrated Set.
+We then moved on to Thought Space and its structure and how it works, what paths between
+thoughts look like, and how logic flows through it. The Limiting Curve of Logic gave us
+singularity zones where logic breaks down, like paradoxes or circular thinking. These are
+important and further research may be required on this topic to understand these singularities
+better .
+Next, we discuss the possibility that thoughts may be quantum in nature, we discussed Orch-
+OR, Quantum Entanglement and Superposition.
+Afterwards, we discussed Interpretations and moved on to Language space from there.
+Finally , we arrived at Awareness and discussed several topics including Awareness as a field,
+Synchronicity , Flow of Nature, and finally Observer , the one who experiences, transforms, and
+gives meaning to all of this. W e have also discussed this model's similarities with the Jungian
+Theory of Individuation, the idea of awareness as God, and finally , we attempted to solve the
+combination problem of Panpsychism using our model.
+This theory is still a work in progress. The previous research on the topic of consciousness is
+not highly relatable as this has been approached from an entirely dif ferent direction while using
+some of the terms from dif ferent subjects. W e used knowledge we gained from Physics, Math,
+Philosophy , Religion and Psychology .
+While this theory still contains loopholes, the hope of the author is to generate interest in the
+above topics so that more people are inspired to explore them further by researching,
+questioning, and understanding these ideas more deeply and thoroughly .
+This is because if consciousness is really at the root of everything, then understanding it isn't
+just interesting, it might be the most important thing we ever do.
+References:
+1. Tononi, G. (2008). Integrated information theory . .
+2. Quora. (n.d.). Is everything made of consciousness?  Retrieved from
+https://www .quora.com/Is-everything-made-of-consciousness
+3. Kant, I. (1781). Critique of Pure Reason  (N. Kemp Smith, Trans.). London: Macmillan.
+(Original work published in 1781)
+4. Vyasa. (n.d.). Bhagavad Gita . Retrieved from https://www .holy-bhagavad-gita.org/
+5. Eckhart, M. (1994). Meister Eckhart: Selected writings  (O. Davies, Trans.). London:
+Penguin.
+6. Nietzsche, F . (1872). The birth of tragedy . [Publisher , translator if any].
+7. Quora. (n.d.). What does "frame of reference" mean in simple words?  Retrieved from
+https://www .quora.com/
+8. ScienceDirect. (n.d.). Feature integration theory . Retrieved from
+https://www .sciencedirect.com/topics/neuroscience/feature-integration-theory
+9. ScienceDaily . (2014, January 16). How the brain encodes time and place: A neural link
+between memory and navigation . Retrieved from
+https://www .sciencedaily .com/releases/2014/01/1401 16085105.htm
+10. Chegg. (n.d.). Poisson process problem . Retrieved from https://www .chegg.com/ ...
+11. Reddit. (n.d.). Observer: The concentration center of awareness . Retrieved from
+https://www .reddit.com/r/consciousness/comments/ ...
+12. Reiki Amazes. (n.d.). Can thoughts change reality?  Retrieved from
+https://reikiamazes.com/ ...
+13. Minini, A. (n.d.). Vector field . Retrieved from https://www .andreaminini.net/math/vector-field
+14. CliffsNotes. (n.d.). Retrieved from https://www .cliffsnotes.com/study-notes/26894455
+15. Reddit. (n.d.). Synchronicity: Meaningful events connecting lives . Retrieved from
+https://www .reddit.com/r/Jung/comments/ ...
+16. Taoistic.com. (n.d.). Tao Te Ching by Laozi . Retrieved from
+https://www .taoistic.com/taoteching-laotzu
+17. GD&T  Basics. (n.d.). What are basic dimensions and how do they work in GD&T?  Retrieved
+from https://www .gdandtbasics.com/ ...
+18. American Museum of Natural History . (n.d.). Thinking in three dimensions . Retrieved from
+https://www .amnh.org/explore/ology/ ...
+19. Bazett, T. (n.d.). Finding the dimension of a subspace  [Video]. YouTube. Retrieved from
+https://www .youtube.com/watch?v=T oEWOTlvaY o
+20. Duplicate of #1 1.
+21. Khan Academy . (n.d.). Domain and range from graphs . Retrieved from
+https://www .khanacademy .org/math/algebra/ ...
+22. Quora. (n.d.). How do you find the dimension of a subspace?  Retrieved from
+https://www .quora.com/ ...
+23. Brainly . (n.d.). [Math question page] . Retrieved from https://brainly .com/question/37814372
+24. Banchof f, T. (n.d.). Beyond the third dimension: Hypercube . Brown University . Retrieved
+from https://www .math.brown.edu/tbanchof/Beyond3d/chapter4/section06.html
+25. Rudin, W alter. Principles of Mathematical Analysis , 3rd Edition. McGraw-Hill, 1976.
+26. Halmos, Paul R.  Naive Set Theory . Springer , 1960.
+27. Hawking, Stephen, and Ellis, G.F .R.
+The Large Scale Structure of Space-T ime_, Cambridge University Press, 1973.
+28. Rosen, Kenneth H.
+Discrete Mathematics and Its Applications , 7th Edition. McGraw-Hill, 2012.
+Section 2.3:
+Definitions and examples of injective (one-to-one), surjective (onto), and bijective
+functions.
+29. Atmanspacher , Harald & Fuchs, C. A.
+The Pauli–Jung Conjecture and Its Impact T oday . Imprint Academic, 2014.
+- Discusses the connection between quantum entanglement and Jung’s concept of
+synchronicity through dual-aspect monism.s
+30. Jung, C. G. (1953/1967). Two Essays on Analytical Psychology  (R. F . C. Hull, Trans.).
+Princeton University Press.
+Explores individuation as the integration of conscious and unconscious psychic
+elements through meaningful confrontation.
+31. Wheeler , J. A. (1990). Information, physics, quantum: The search for links . In W . Zurek
+(Ed.), Complexity , Entropy and the Physics of Information (pp. 3–28). Addison-W esley .
+- Introduces the "It from Bit" hypothesis: the idea that every physical thing
+("it") derives its function and existence from binary choices ("bit").
+32. Prideaux, Jeff.
+Comparison between Karl Pribram's "Holographic Brain Theory" and More Conventional
+Models of Neuronal Computation . American Computer Science Association (T echnical
+Report). Retrieved from http://www .acsa2000.net/bcngroup/jponkp/
+Introduces the holonomic brain theory and discusses how episodic information may be
+distributed across the brain through holographic transformations, based on the work of
+Karl Pribram.
